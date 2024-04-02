@@ -1,0 +1,15 @@
+ReactJs create SPA applications
+
+node_modules/libraries contain
+public/index.html (view file)
+src/index.js (Logic file)
+package.json
+
+What are components in ReactJs ?
+1. Component is basic building block of react app.
+2. Component is JS file
+3. A component return some HTML structure (JSX)
+
+Types of Component
+1. React Functional Component (New)
+2. React Class Component (Outdated)
