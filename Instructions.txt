@@ -13,3 +13,35 @@ What are components in ReactJs ?
 Types of Component
 1. React Functional Component (New)
 2. React Class Component (Outdated)
+
+{
+	// 1. P:V
+	// 2. Methods
+}
+
+How ReactJs application loads
+npm start -> react-script start
+		-> index.js
+			-> index.html
+				(Render) Render means output launch on browser
+npm start ---> WebPack(Bundler) ---> Babel(JS Compiler) ---> Website launch
+Newer JS Code ---> Babel(JS Compiler) ---> Older JS Code
+
+Block level elements cannot contain another block element
+Types of element
+1. Inline Element
+2. Block Element
+
+Expression Evaluator
+`${}` Pure JS
+{} ReactJs
+
+* ReactJs is built on top of NodeJs Framework
+
+Import/Export
+
+Every components can have its own data
+1. Inside
+2. Outside <--------- Some APIs
+
+import Comp1, {Comp2} from '../somelibrary'
