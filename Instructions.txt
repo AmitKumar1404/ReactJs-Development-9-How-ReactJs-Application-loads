@@ -44,4 +44,5 @@ Every components can have its own data
 1. Inside
 2. Outside <--------- Some APIs
 
+Can I import multiple element from a single library in ReactJs ?
 import Comp1, {Comp2} from '../somelibrary'
